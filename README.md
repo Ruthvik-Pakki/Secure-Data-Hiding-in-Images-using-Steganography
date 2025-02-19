@@ -24,7 +24,7 @@ This project provides a secure and user-friendly way to encrypt and decrypt mess
 1.  Run the encryption script:
 
     ```
-    python encrypt_gui.py
+    python encrypt.py
     ```
 
 2.  Enter the secret message and password in the GUI.
@@ -35,7 +35,7 @@ This project provides a secure and user-friendly way to encrypt and decrypt mess
 1.  Run the decryption script:
 
     ```
-    python decrypt_gui.py
+    python decrypt.py
     ```
 
 2.  Enter the password used during encryption in the GUI.
