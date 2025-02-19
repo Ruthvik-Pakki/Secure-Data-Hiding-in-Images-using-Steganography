@@ -42,14 +42,6 @@ This project provides a secure and user-friendly way to encrypt and decrypt mess
 3.  Select the encrypted image.
 4.  If the password is correct, the hidden message will be revealed in the GUI.
 
-## 🎯 Screenshots
-
-### 🔐 Encryption Process
-
-"C:\Users\bthem\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-19 065323.png"
-### 🔓 Decryption Process
-
-"C:\Users\bthem\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-19 065432.png"
 
 ## 🎯 Future Scope
 
