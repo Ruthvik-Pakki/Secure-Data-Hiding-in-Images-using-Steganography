@@ -46,11 +46,10 @@ This project provides a secure and user-friendly way to encrypt and decrypt mess
 
 ### 🔐 Encryption Process
 
-![Encryption Output](C:\Users\bthem\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-19 065610.png)  *(Replace Encryption_Output.png with the actual filename or path to your encryption output screenshot)*
-
+"C:\Users\bthem\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-19 065323.png"
 ### 🔓 Decryption Process
 
-![Decryption Output](C:\Users\bthem\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-19 065432.png) *(Replace Decryption_Output.png with the actual filename or path to your decryption output screenshot)*
+"C:\Users\bthem\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-19 065432.png"
 
 ## 🎯 Future Scope
 
